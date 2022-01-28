@@ -1,0 +1,10 @@
+{
+    "dataset": "Sick",
+    "mv_type": "systematic",
+    "train/val/test": "1661/1400/711",
+    "num_feature": 29,
+    "percent_mv_cells": 0.07434241939836825,
+    "percent_mv_rows": 0.9867549668874173,
+    "mv_columns": "on_thyroxine(num), query_on_thyroxine(num), lithium(num), goitre(num), T3_measured(num), T3(num), ",
+    "seed": 6
+}

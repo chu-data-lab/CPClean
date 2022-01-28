@@ -1,0 +1,10 @@
+{
+    "dataset": "Bank",
+    "mv_type": "random",
+    "train/val/test": "1255/1400/537",
+    "num_feature": 8,
+    "percent_mv_cells": 0.2045816733067729,
+    "percent_mv_rows": 0.8438247011952191,
+    "mv_columns": "a1cx(num), a1cy(num), b2x(num), b2y(num), a2pop(num), a3pop(num), temp(num), mxql(num), ",
+    "seed": 2
+}

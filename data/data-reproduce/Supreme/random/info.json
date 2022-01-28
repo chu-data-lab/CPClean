@@ -1,0 +1,10 @@
+{
+    "dataset": "Supreme",
+    "mv_type": "random",
+    "train/val/test": "1157/1400/495",
+    "num_feature": 7,
+    "percent_mv_cells": 0.2064452401531053,
+    "percent_mv_rows": 0.7917026793431288,
+    "mv_columns": "Actions_taken(num), Liberal(num), Unconstitutional(num), Precedent_alteration(num), Unanimous(num), Year_of_decision(num), Lower_court_disagreement(num), ",
+    "seed": 7
+}

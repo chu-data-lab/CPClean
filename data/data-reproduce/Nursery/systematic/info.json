@@ -1,0 +1,10 @@
+{
+    "dataset": "Nursery",
+    "mv_type": "systematic",
+    "train/val/test": "8092/1400/3468",
+    "num_feature": 8,
+    "percent_mv_cells": 0.11871292634700939,
+    "percent_mv_rows": 0.9497034107760751,
+    "mv_columns": "health(cat), ",
+    "seed": 3
+}

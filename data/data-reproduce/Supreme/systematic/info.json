@@ -1,0 +1,10 @@
+{
+    "dataset": "Supreme",
+    "mv_type": "systematic",
+    "train/val/test": "1157/1400/495",
+    "num_feature": 7,
+    "percent_mv_cells": 0.190640819854303,
+    "percent_mv_rows": 0.9671564390665515,
+    "mv_columns": "Actions_taken(num), Year_of_decision(num), ",
+    "seed": 7
+}

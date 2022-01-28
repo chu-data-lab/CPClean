@@ -1,0 +1,10 @@
+{
+    "dataset": "Puma",
+    "mv_type": "systematic",
+    "train/val/test": "4755/1400/2037",
+    "num_feature": 8,
+    "percent_mv_cells": 0.20099894847528918,
+    "percent_mv_rows": 0.9707676130389065,
+    "mv_columns": "theta2(num), theta3(num), ",
+    "seed": 2
+}

@@ -1,0 +1,10 @@
+{
+    "dataset": "BabyProduct",
+    "mv_type": "real",
+    "train/val/test": "1834/1400/785",
+    "num_feature": 6,
+    "percent_mv_cells": 0.14094874591057796,
+    "percent_mv_rows": 0.8456924754634678,
+    "mv_columns": "brand(cat), ",
+    "seed": 20
+}

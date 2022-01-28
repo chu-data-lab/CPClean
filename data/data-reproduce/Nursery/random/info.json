@@ -1,0 +1,10 @@
+{
+    "dataset": "Nursery",
+    "mv_type": "random",
+    "train/val/test": "8092/1400/3468",
+    "num_feature": 8,
+    "percent_mv_cells": 0.2011709095402867,
+    "percent_mv_rows": 0.8339100346020761,
+    "mv_columns": "parents(cat), has_nurs(cat), form(cat), children(cat), housing(cat), finance(cat), social(cat), health(cat), ",
+    "seed": 2
+}

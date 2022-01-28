@@ -1,0 +1,10 @@
+{
+    "dataset": "Sick",
+    "mv_type": "random",
+    "train/val/test": "1661/1400/711",
+    "num_feature": 29,
+    "percent_mv_cells": 0.2043430422055679,
+    "percent_mv_rows": 0.9993979530403372,
+    "mv_columns": "age(num), sex(num), on_thyroxine(num), query_on_thyroxine(num), on_antithyroid_medication(num), sick(num), pregnant(num), thyroid_surgery(num), I131_treatment(num), query_hypothyroid(num), query_hyperthyroid(num), lithium(num), goitre(num), tumor(num), hypopituitary(num), psych(num), TSH_measured(num), TSH(num), T3_measured(num), T3(num), TT4_measured(num), TT4(num), T4U_measured(num), T4U(num), FTI_measured(num), FTI(num), TBG_measured(num), TBG(num), referral_source(num), ",
+    "seed": 6
+}
