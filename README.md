@@ -1,7 +1,7 @@
 # CPClean
 
 The official code for our VLDB 2021
-paper: [Nearest Neighbor Classifiers over Incomplete Information: From Certain Answers to Certain Predictions](https://arxiv.org/pdf/2005.05117.pdf)
+paper: [Nearest Neighbor Classifiers over Incomplete Information: From Certain Answers to Certain Predictions](http://vldb.org/pvldb/vol14/p255-karlas.pdf)
 .
 
 ## Installation
